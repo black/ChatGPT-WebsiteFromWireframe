@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# dotenv environment variables file
+.env
+.env.test
+
+node_modules
